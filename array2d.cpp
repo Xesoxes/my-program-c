@@ -20,6 +20,9 @@ class Textstart {
 		Textstart(string x, string y, string g){
 			kata1 = x;
 			kata2 = y;
+			kata3 = y;
+
+
 			#include <iostream>
 #include <windows.h>
 using namespace std;
