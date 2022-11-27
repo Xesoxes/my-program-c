@@ -8,5 +8,6 @@ int main(){
 	tambah = a + b;
 	hasil = tambah;
 	cout<<hasil;
+	cout<<"Hello";
 	
 }
